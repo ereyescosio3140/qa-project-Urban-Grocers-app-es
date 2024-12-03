@@ -13,4 +13,4 @@ Este proyecto está enfocado en la automatización de pruebas para validar la fu
 ### Instalación de Dependencias
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <(https://cnt-c9f544d0-0955-425e-a617-8de0a57bb7a8.containerhub.tripleten-services.com/)>
