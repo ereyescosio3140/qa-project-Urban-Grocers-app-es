@@ -4,9 +4,9 @@ Descripción del Proyecto:
 Este proyecto implementa pruebas automatizadas para la API de Urban Grocers. Su objetivo es validar la calidad de los endpoints críticos que soportan las principales funcionalidades de la aplicación, garantizando su correcto funcionamiento y robustez frente a errores.
 
 Tecnologías Utilizadas:
-Lenguaje: Python
-Framework de Pruebas: Pytest
-Biblioteca para Solicitudes HTTP: Requests
+Lenguaje: Python, 
+Framework de Pruebas: Pytest, 
+Biblioteca para Solicitudes HTTP: Requests, 
 Formato de Datos: JSON
 
 Instrucciones para Ejecutar el Proyecto:
