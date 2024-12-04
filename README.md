@@ -18,13 +18,13 @@ Asegúrate de tener pip instalado y ejecuta:
 pip install -r requirements.txt
 3. Configura las variables de entorno (si es necesario):
 Si tu proyecto requiere variables específicas para URLs o tokens, configúralas en tu terminal.
-export URL_SERVICE=https://example.com/api/v1
+export URL_SERVICE=[https://example.com/api/v1](https://cnt-d72c1bfc-4dc1-437e-b89a-8815ed402384.containerhub.tripleten-services.com/)
 export AUTH_TOKEN=your_token
 4. Ejecuta el proyecto:
 Si tienes scripts principales, indícalos aquí. Ejemplo:
 python sender_stand_request.py
 
-Instrucciones para Ejecutar las Pruebas
+Instrucciones para Ejecutar las Pruebas:
 1. Ejecuta todas las pruebas:
 pytest tests/
 2. Ejecuta pruebas específicas:
